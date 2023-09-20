@@ -10,8 +10,8 @@ profile:
   address: >
     <p>PhD student</p>
     <p>Virginia Tech</p>
-    <p>[CV](https://drive.google.com/file/d/1f9IaDY10QTJnFLUrxymrpLr7ezrTnYGe/view?usp=sharing)</p>
-    <p>[Email](tongw@vt.edu)</p>
+    <p><a href="https://drive.google.com/file/d/1f9IaDY10QTJnFLUrxymrpLr7ezrTnYGe/view?usp=sharing">CV</a></p>
+    <p><a href="tongw@vt.edu">Email</a></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -23,5 +23,5 @@ Aloha! I'm Tong, a first-year PhD student at [Virginia Tech](https://www.vt.edu/
 
 I am interested in Human-computer Interaction and Artificial Intelligence. I explore how we can using AI techniques to better assist with real-world tasks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
