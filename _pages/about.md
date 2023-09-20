@@ -23,5 +23,3 @@ Aloha! I'm Tong, a first-year PhD student at [Virginia Tech](https://www.vt.edu/
 
 I am interested in Human-computer Interaction and Artificial Intelligence. I explore how we can using AI techniques to better assist with real-world tasks.
 
-You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
