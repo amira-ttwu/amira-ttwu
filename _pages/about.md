@@ -9,16 +9,16 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>🎒PhD student</p>
-    <p>Virginia Tech</p>
     <p>Email: tongw@vt.edu</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: False  # includes social icons at the bottom of the page
+latest_posts: False  # includes a list of the newest posts
+selected_papers: False # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Aloha! I'm Tong, a first-year PhD student at [Virginia Tech](https://www.vt.edu/) in the department of Computer Science, advised by Prof. [Yan Chen](https://chensivan.github.io/). I am interested in Human-computer Interaction and Artificial Intelligence. I explore how we can use AI techniques to better assist with real-world tasks.
+Aloha! I'm Tong, a first-year Ph.D. student in the Department of Computer Science at [Virginia Tech](https://www.vt.edu/).I am pursuing my doctorate under the advisement of Prof. [Yan Chen](https://chensivan.github.io/), researching Human-Computer Interaction and Artificial Intelligence. My current focus is on continuous AI and AI assistant technologies to better aid real-world tasks. I am passionate about leveraging AI to enhance human-computer collaboration.
 
-Previously, I obtained my M.S. in Information System at the Washington University in St. Louis, and B.S. with a double major in Computer Science and Finance from CAU, China.
+Before joining Virginia Tech, I obtained my M.S. in Information Systems from Washington University in St. Louis, and B.S. with double majors in Computer Science and Finance from China Agricultural University in Beijing, China.
 
+Outside of academics, I enjoy photography and vlogging about my travels and road trips. I am passionate about the open road, having driven along Route 1 in California and Route A1A in Florida. Immersing myself in new scenery and landscapes not only inspires my perspective but also informs my research on human nature. I aspire to visit every national park in the US someday.
