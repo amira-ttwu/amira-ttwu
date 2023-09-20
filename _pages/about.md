@@ -8,8 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>🎓PhD student</p>
-    <p>![image](https://github.com/amira-ttwu/amira-ttwu.github.io/assets/106852889/759bce3b-21a5-4f20-8115-4cfc444c2a81)Virginia Tech</p>
+    <p>🎒PhD student</p>
+    <p>Virginia Tech</p>
+    <p>Blacksburg, VA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
