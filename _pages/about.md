@@ -21,5 +21,5 @@ social: False  # includes social icons at the bottom of the page
 
 Aloha! I'm Tong, a first-year PhD student at [Virginia Tech](https://www.vt.edu/) in the department of Computer Science, advised by Prof. [Yan Chen](https://chensivan.github.io/).
 
-I am interested in Human-computer Interaction and Artificial Intelligence. I explore how we can using AI techniques to better assist with real-world tasks.
+I am interested in Human-computer Interaction and Artificial Intelligence. I explore how we can use AI techniques to better assist with real-world tasks.
 
