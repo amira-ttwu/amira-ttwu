@@ -5,10 +5,10 @@
       value: Tong Wu
     - name: Email
       value: tongw@vt.edu
-    - name: URL
-      value: https://tongw-wu.github.io/
-    - name: Research Interests
-      value: Human-Computer Interaction, Human-AI Interaction and Intelligent Interactive
+  #  - name: URL
+   #   value: https://tongw-wu.github.io/
+   # - name: Research Interests
+   #   value: Human-Computer Interaction, Human-AI Interaction and Intelligent Interactive
     - name: Languages
       value: English, Chinese
 
