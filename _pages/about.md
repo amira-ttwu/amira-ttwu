@@ -17,7 +17,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Aloha! I'm Tong, a first-year Ph.D. student in the Department of Computer Science at [Virginia Tech](https://www.vt.edu/).I am pursuing my doctorate under the advisement of Prof. [Yan Chen](https://chensivan.github.io/), researching Human-Computer Interaction and Artificial Intelligence. My current focus is on continuous AI and AI assistant technologies to better aid real-world tasks. I am passionate about leveraging AI to enhance human-computer collaboration.
+Aloha! I'm Tong, a first-year Ph.D. student in the Department of Computer Science at [Virginia Tech](https://www.vt.edu/).I am pursuing my doctorate under the advisement of Prof. [Yan Chen](https://chensivan.github.io/), researching Human-Computer Interaction, Human-AI Interaction and Intelligent Interactive. My current focus is on continuous AI and AI assistant technologies to better aid real-world tasks. I am passionate about leveraging AI to enhance human-computer collaboration.
 
 Before joining Virginia Tech, I obtained my M.S. in Information Systems from [Washington University in St. Louis](https://wustl.edu/), and B.S. with double majors in Computer Science and Finance from China Agricultural University in Beijing, China.
 
