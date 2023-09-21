@@ -3,36 +3,30 @@
   contents:
     - name: Full Name
       value: Tong Wu
-    - name: Email
-      value: tongw@vt.edu
-  #  - name: URL
-   #   value: https://tongw-wu.github.io/
-   # - name: Research Interests
-   #   value: Human-Computer Interaction, Human-AI Interaction and Intelligent Interactive
+    - name: Date of Birth
+      value: Feb 1998
     - name: Languages
       value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science & Applications
+    - title: PhD
       institution: Virginia Tech(VT), USA
       year: 2023
       description:
-         - Advisor: Yan Chen
-    - title: Master of Information Systems Management
+        - Advisor: Yan Chen
+        - title: PhD in Computer Science & Applications
+    - title: Master
       institution: Washington University in St. Louis (WUSTL), USA
       year: 2021-2022
       description:
-       #   - Relevant Coursework: Foundations of Analytics, Optimization, IT Architecture & Infrastructure, Applications
-of Deep Neural Networks, Enterprise Data Management, IT Governance & Risk Management
-    - title: Bachelor of Computer Science and Technol
+        - title: Master of Information Systems Management
+    - title: Bachelor
       institution: China Agricultural University (CAU) Beijing, PRC
       year: 2016-2020
       description:
-        #  - Relevant Coursework: Artificial Intelligence, Machine Learning, Principles of Database Systems, Probability
-#Theory & Mathematical Statistics, Data Structure, Computer Programming
-        #  - Honor: Meritorious Winner for the Mathematical Contest in Modeling (MCM) 2019
+        - title: Bachelor of Computer Science and Technol
        
 
 - title: Experience
