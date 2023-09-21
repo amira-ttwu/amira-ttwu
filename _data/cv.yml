@@ -1,12 +1,12 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Tong Wu
-    - name: Date of Birth
-      value: Feb 1998
-    - name: Languages
-      value: English, Chinese
+    - name: Email
+      value: tongw@vt.edu
+    - name: Summmary
+      value: A PhD student doing research about Human-Computer Interaction, Human-AI Interaction, and Intelligent Interactive.
 
 - title: Education
   type: time_table
