@@ -2,31 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tong Wu
     - name: Date of Birth
-      value: 14th March 1879
+      value: Feb 1998
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Virginia Tech(VT), USA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Yan Chen
+        - title: PhD in Computer Science & Applications
+    - title: Master
+      institution: Washington University in St. Louis (WUSTL), USA
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
+        - title: Master of Information Systems Management
+    - title: Bachelor
+      institution: China Agricultural University (CAU) Beijing, PRC
+      year: 2016-2020
+      description:
+        - title: Bachelor of Computer Science and Technol
+       
 
 - title: Experience
   type: time_table
