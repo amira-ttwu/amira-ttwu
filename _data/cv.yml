@@ -19,20 +19,20 @@
       institution: Virginia Tech(VT), USA
       year: 2023
       description:
-          Advisor: Yan Chen
+          - Advisor: Yan Chen
     - title: Master of Information Systems Management
       institution: Washington University in St. Louis (WUSTL), USA
       year: 2021-2022
       description:
-          Relevant Coursework: Foundations of Analytics, Optimization, IT Architecture & Infrastructure, Applications
+          - Relevant Coursework: Foundations of Analytics, Optimization, IT Architecture & Infrastructure, Applications
 of Deep Neural Networks, Enterprise Data Management, IT Governance & Risk Management
     - title: Bachelor of Computer Science and Technol
       institution: China Agricultural University (CAU) Beijing, PRC
       year: 2016-2020
       description:
-          Relevant Coursework: Artificial Intelligence, Machine Learning, Principles of Database Systems, Probability
+          - Relevant Coursework: Artificial Intelligence, Machine Learning, Principles of Database Systems, Probability
 Theory & Mathematical Statistics, Data Structure, Computer Programming
-          Honor: Meritorious Winner for the Mathematical Contest in Modeling (MCM) 2019
+          - Honor: Meritorious Winner for the Mathematical Contest in Modeling (MCM) 2019
        
 
 - title: Experience
