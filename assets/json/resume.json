@@ -1,27 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Tong Wu",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+    "email": "tongw@vt.edu",
+    "phone": "(314) 861-8068",
+    "url": "https://ttongwu.github.io/",
+    "Research Interests": "Human-Computer Interaction and AI",
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -35,7 +20,6 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
